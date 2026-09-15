@@ -1,0 +1,2 @@
+# Cuccli-tesztli
+gyakorlas
